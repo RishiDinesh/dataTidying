@@ -51,3 +51,5 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 - timeBodyAccelerometerJerkMean
 - timeBodyGyroscopeMean
 - timeBodyGyroscopeJerkMean
+
+Two additional variables,namely subject_id and activity are used to indicate the subject performing the activity and the activity performed(respectively).
